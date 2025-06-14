@@ -1,7 +1,10 @@
 # Rossmann-Retail-Sales
 Mid Course Assessment - ML Case Study
+
 Project Name - Rossmann Retail Sales
+
 Project Type - Regression
+
 Contribution - Pravin Boddhul
 
 **Project Summary -**
