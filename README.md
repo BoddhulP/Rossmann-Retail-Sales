@@ -70,11 +70,9 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 At this stage models used : *Linear Regression, *Lasso Regression, *Random Forest Regressor
 
-                                    Training score                Testing score 
-	Linear Regression	0.780750		       0.782392
-	
-	Lasso Regression	0.780731		       0.782369
-	
-	Random Forest    	0.993811             	       0.956433
+![image](https://github.com/user-attachments/assets/a9be9dee-50af-4db3-8744-cb30f23a6e0b)
+
+
+	  
 Conclusion
 Acheived MAPE of 5.65% and MAE = $376 showing predictions of model is higly accurate for the sales forecast. Generated insights by EDA and feature importance provide valuable tools to decide the amount of budget and inventory for upcoming sales.
